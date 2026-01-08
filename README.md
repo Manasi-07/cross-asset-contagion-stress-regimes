@@ -218,12 +218,8 @@ This project builds on established research in financial contagion:
 ## 👤 Author
 
 **Manasi Nandrajog**
-- MSc Big Data Science (Distinction), Queen Mary University of London
-- BSc Information Technology (9.6/10 CGPA)
-- Data & Admin Coordinator, School of Business and Management, QMUL
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- Portfolio: [Your Website]
+- Postgraduate - MSc Big Data Science (Distinction), Queen Mary University of London
+- Undergraduate - BSc Information Technology (9.6/10 CGPA)
 
 ---
 
@@ -250,9 +246,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions about this research or collaboration opportunities:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub Profile]
+- Email: [manasi.nandrajog@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/manasi-nandrajog/]
+- GitHub: [https://github.com/Manasi-07/]
 
 ---
 
